@@ -45,7 +45,7 @@ Stetig: Voltmeter (Messgerät)
 Wenn kurve 'ausgeschnitten' dann ist der Erwartungswert beim Schwerpunkt der ausgeschnittenen Kurve.
 
 ### Quantile
-![](2018-10-05-13-39-41.png)
+![](2018-10-18-17-14-57.png)
 
 ### Uniforme Verteilung
 ![](2018-10-05-13-52-20.png)
