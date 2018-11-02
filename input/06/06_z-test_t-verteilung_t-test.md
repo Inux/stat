@@ -27,7 +27,7 @@ Ergebnis sollte gleich sein wie bei der Momentmethode
 ### P-Wert, Testentscheid
 ![](2018-11-02-13-35-01.png)
 
-## z-Test
+## z-Test: ox bekannt
 ![](2018-11-02-13-35-45.png)
 
 ### Zweiseitiger Verwerfungsbereich beim Z-Test
