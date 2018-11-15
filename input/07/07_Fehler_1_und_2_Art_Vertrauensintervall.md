@@ -27,3 +27,12 @@
 * Weil man aber primär einen Fehler 1. Art vermeiden will, wählt man α klein, z.B. α = 0.05
 * Je kleiner α, desto kleiner der Verwerfungsbereich
 * Vertikale Linie wandert nach rechts → Fehler 2. Art wird umso grösser
+
+## Vertrauensintervall für u
+![](2018-11-09-14-58-46.png)
+
+![](2018-11-09-14-59-20.png)
+
+### Beispiel
+![](2018-11-09-14-59-49.png)
+![](2018-11-09-15-00-07.png)
