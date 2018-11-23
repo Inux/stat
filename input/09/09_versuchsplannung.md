@@ -46,3 +46,23 @@
 ## Vollständig randomisierter Versuchsplan: Beispiel Meat
 ![](2018-11-23-15-02-01.png)
 
+### Vergleich von Gruppenmittel mit g > 2: Beispiel Meat
+![](2018-11-23-15-03-12.png)
+![](2018-11-23-15-03-34.png)
+![](2018-11-23-15-04-10.png)
+![](2018-11-23-15-04-31.png)
+
+### Vergleich Gruppenmittel mit g > 2: Gruppenmittelmodell
+![](2018-11-23-15-05-03.png)
+![](2018-11-23-15-05-17.png)
+
+## Gruppenmittel-Modell: Alternative Formulierungen
+![](2018-11-23-15-05-48.png)
+
+## Parameterschätzung im Gruppenmittel-Modell
+![](2018-11-23-15-06-31.png)
+![](2018-11-23-15-06-50.png)
+
+### Parameterschätzung: Beispiel Meat
+![](2018-11-23-15-07-24.png)
+![](2018-11-23-15-07-42.png)
