@@ -61,7 +61,7 @@
 
 ## Parameterschätzung im Gruppenmittel-Modell
 ![](2018-11-23-15-06-31.png)
-![](2018-11-23-15-06-50.png)
+![](2018-11-29-15-23-03.png)
 
 ### Parameterschätzung: Beispiel Meat
 ![](2018-11-23-15-07-24.png)
