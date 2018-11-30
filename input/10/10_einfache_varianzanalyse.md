@@ -18,3 +18,9 @@
 
 ### Vergleich von Gruppenmittel mit g > 2: Beispiel Meat
 ![](2018-11-30-13-29-34.png)
+![](2018-11-30-13-31-49.png)
+
+### Code (Python)
+![](2018-11-30-13-34-13.png)
+
+### Vergleich Gruppenmittel mit g > 2 : Beispiel Meat
